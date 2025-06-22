@@ -1,16 +1,11 @@
 # linkedin_app
+A simple LinkedIn clone built with Flutter, using the Provider package for state management and following the MVVC (Model-View-ViewController) architectural pattern.
 
-A new Flutter project.
+## Features
+- Sign in with dummy credentials (e.g., email: `test@test.com`, password: `12345678`) or sign up with new credentials
+- View posts
+- Like and comment on posts
+- View profile
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
