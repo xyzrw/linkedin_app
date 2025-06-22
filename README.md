@@ -15,6 +15,6 @@ A simple Linkedin clone built with Flutter, using the Provider package for state
 - View profile
   
 ## Screenshots
-<img src="screenshots/auth-home.png" height="500" > &nbsp;&nbsp;&nbsp;&nbsp; <img src="screenshots/sign-in.png" height="500"> &nbsp;&nbsp;&nbsp;&nbsp;<img src="screenshots/sign-up.png" height="500"> &nbsp;&nbsp;&nbsp;&nbsp;<img src="screenshots/home.png" height="500">
+<img src="screenshots/auth-home.png" height="350" > &nbsp;&nbsp;&nbsp;&nbsp; <img src="screenshots/sign-in.png" height="350"> &nbsp;&nbsp;&nbsp;&nbsp;<img src="screenshots/sign-up.png" height="350"> &nbsp;&nbsp;&nbsp;&nbsp;<img src="screenshots/home.png" height="350">
 
 <img src="screenshots/view-post.png" height="500" > &nbsp;&nbsp;&nbsp;&nbsp; <img src="screenshots/profile-screen-1.png" height="500"> &nbsp;&nbsp;&nbsp;&nbsp;<img src="screenshots/profile-screen-2.png" height="500">
