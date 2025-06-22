@@ -1,4 +1,4 @@
-# inkedin_app
+# linkedin_app
 A simple Linkedin clone built with Flutter, using the Provider package for state management and following the MVVC (Model-View-ViewController) architectural pattern.
 
 ## Screens
